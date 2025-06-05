@@ -1,13 +1,5 @@
 ## **plavnik**
 
-
-
-> What for? - For fun.
-
-<br>
-
-
-
 ### **Suported languages**:
 - Python
 
