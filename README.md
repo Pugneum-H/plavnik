@@ -21,7 +21,8 @@ float
 true/false
 null
 list
-Supports nesting (category.subcategory...)
+<br>
+**Supports nesting (category.subcategory...)**
 
 
 
