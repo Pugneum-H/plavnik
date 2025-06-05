@@ -15,12 +15,12 @@
 
 
 ### **Supported types (key-value pairs):**
-str
-int
-float
-true/false
-null
-list
+- str
+- int
+- float
+- true/false
+- null
+- list
 <br>
 **Supports nesting (category.subcategory...)**
 
